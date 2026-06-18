@@ -1,0 +1,40 @@
+*{
+background-color: rgb(206, 207, 100);
+text-transform: capitalize;
+background-repeat: no-repeat;
+background-position: center;
+
+
+
+}
+
+
+
+.ajdigitalwrld{
+font-size: 20px;
+color: red;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+font-weight: bolder;
+font-style: initial;
+}
+
+
+.boarder-example{
+boader: 4px solid black;
+padding: 10px;
+margin: 30;
+
+}
+
+boader-1{
+    border: 8px solid rebeccapurple;
+    padding: 20px;
+    margin: 30px;
+}
+boader-2{
+boader:4px solid orange;
+padding: 70px;
+margin: 60px;
+
+}
